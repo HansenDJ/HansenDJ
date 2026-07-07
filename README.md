@@ -1,5 +1,6 @@
-## Hi there 👋
+## Projects
 
+- [8-bit Calculator CPU](https://github.com/HansenDJ/8-bit-console-clone-verilog/tree/calculator/eight_bit_console/eight_bit_console.srcs/sources_1/new)
 <!--
 **HansenDJ/HansenDJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
