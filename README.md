@@ -6,6 +6,8 @@
 - [E-Longboard Spacial Library - Multivariable Calc - (C Language)](https://github.com/eboard-boys/spatial-lib)
 ## FPGA
 - [8-bit Calculator CPU - (Basys 3 AMD Artix™ 7 FPGA VHDL)](https://github.com/HansenDJ/8-bit-console-clone-verilog/tree/calculator/eight_bit_console/eight_bit_console.srcs/sources_1/new)
+## Data Structures
+- [Data Structures Tutorial (Python)](https://github.com/HansenDJ/data-structures-tutorial)
 ## Hack-a-thons
 - [FAWNA ESP32 Bluetooth Low Energy (BLE) Digital Bulletin Board - (Arduino C++)](https://github.com/FAWNA-App/fawna-bulletin-board)
 ## Web Dev
