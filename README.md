@@ -3,7 +3,7 @@
 -->
 # Projects
 ## Hardware
-## KiCAD PCB & Schematic Design
+### KiCAD PCB & Schematic Design
 - [E-Longboard ESP32 HAT PCB (KiCAD)](https://github.com/eboard-boys/longmon-hatt)
 
 ## Hardware & Software
